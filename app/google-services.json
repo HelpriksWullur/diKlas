@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161474371594",
+    "project_id": "new-diklas",
+    "firebase_url": "https://new-diklas-default-rtdb.asia-southeast1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161474371594:android:b20aa3f25120e4c930fff3",
+        "android_client_info": {
+          "package_name": "com.epic.diklas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh7GE508_4tpbrDWgIS7H5PVGrxBfzE4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
